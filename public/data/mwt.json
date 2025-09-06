@@ -1,0 +1,60 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Intro + Rails Setup",
+      "type": "лекция",
+      "date": "2025-09-08",
+      "time": "13:45",
+      "recordingLink": null
+    },
+    {
+      "id": 2,
+      "title": "Databases for web apps",
+      "type": "лекция",
+      "date": "2025-09-15",
+      "time": "13:45",
+      "recordingLink": null
+    },
+    {
+      "id": 3,
+      "title": "Basic ORM",
+      "type": "лекция",
+      "date": "2025-09-15",
+      "time": "15:50",
+      "recordingLink": null
+    },
+    {
+      "id": 4,
+      "title": "Routing and Controllers",
+      "type": "лекция",
+      "date": "2024-09-22",
+      "time": "13:45",
+      "recordingLink": null
+    },
+    {
+      "id": 5,
+      "title": "Building authentication from scratch",
+      "type": "практика",
+      "date": "2024-10-06",
+      "time": "13:45",
+      "recordingLink": null
+    },
+    {
+      "id": 6,
+      "title": "Building a blog application",
+      "type": "практика",
+      "date": "2024-10-13",
+      "time": "13:45",
+      "recordingLink": null
+    },
+    {
+      "id": 7,
+      "title": "Building a blog application",
+      "type": "практика",
+      "date": "2024-10-13",
+      "time": "15:50",
+      "recordingLink": null
+    }
+  ]
+}

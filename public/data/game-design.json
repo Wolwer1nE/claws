@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Основы гейм-дизайна",
+      "type": "лекция",
+      "date": "2024-09-11",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign1"
+    },
+    {
+      "id": 2,
+      "title": "Практика: Анализ игровых механик",
+      "type": "практика",
+      "date": "2024-09-13",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign2"
+    },
+    {
+      "id": 3,
+      "title": "Пользовательский опыт в играх",
+      "type": "лекция",
+      "date": "2024-09-18",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign3"
+    },
+    {
+      "id": 4,
+      "title": "Практика: Создание прототипа",
+      "type": "практика",
+      "date": "2024-09-20",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign4"
+    },
+    {
+      "id": 5,
+      "title": "Балансировка игровых систем",
+      "type": "лекция",
+      "date": "2024-09-25",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign5"
+    },
+    {
+      "id": 6,
+      "title": "Практика: Тестирование геймплея",
+      "type": "практика",
+      "date": "2024-09-27",
+      "time": "19:00",
+      "recordingLink": "https://youtube.com/watch?v=gamedesign6"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Введение в кросс-платформенную разработку",
+      "type": "лекция",
+      "date": "2024-09-12",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform1"
+    },
+    {
+      "id": 2,
+      "title": "Практика: Настройка среды разработки",
+      "type": "практика",
+      "date": "2024-09-14",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform2"
+    },
+    {
+      "id": 3,
+      "title": "React Native основы",
+      "type": "лекция",
+      "date": "2024-09-19",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform3"
+    },
+    {
+      "id": 4,
+      "title": "Практика: Создание первого приложения",
+      "type": "практика",
+      "date": "2024-09-21",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform4"
+    },
+    {
+      "id": 5,
+      "title": "Flutter vs React Native",
+      "type": "лекция",
+      "date": "2024-09-26",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform5"
+    },
+    {
+      "id": 6,
+      "title": "Практика: Публикация в сторы",
+      "type": "практика",
+      "date": "2024-09-28",
+      "time": "20:00",
+      "recordingLink": "https://youtube.com/watch?v=crossplatform6"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "physics-in-games",
+  "title": "Физика в играх",
+  "description": "Изучаем физические принципы в игровой разработке",
+  "image": "/images/physics-course.jpg",
+  "meetingLink": "https://meet.google.com/physics-games",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Введение в игровую физику",
+      "type": "лекция",
+      "date": "2024-09-10",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics1"
+    },
+    {
+      "id": 2,
+      "title": "Практика: Базовая физика движения",
+      "type": "практика",
+      "date": "2024-09-12",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics2"
+    },
+    {
+      "id": 3,
+      "title": "Коллизии и столкновения",
+      "type": "лекция",
+      "date": "2024-09-17",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics3"
+    },
+    {
+      "id": 4,
+      "title": "Практика: Реализация коллизий",
+      "type": "практика",
+      "date": "2024-09-19",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics4"
+    },
+    {
+      "id": 5,
+      "title": "Гравитация и силы",
+      "type": "лекция",
+      "date": "2024-09-24",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics5"
+    },
+    {
+      "id": 6,
+      "title": "Практика: Симуляция гравитации",
+      "type": "практика",
+      "date": "2024-09-26",
+      "time": "18:00",
+      "recordingLink": "https://youtube.com/watch?v=physics6"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "physics-in-games",
+    "title": "Физика в играх",
+    "description": "Изучаем физические принципы в игровой разработке",
+    "image": "/images/physics.png",
+    "meetingLink": "https://meet.google.com/physics-games",
+    "telegramChat": "https://t.me/physics_in_games_chat"
+  },
+  {
+    "id": "game-design",
+    "title": "Гейм-дизайн",
+    "description": "Основы проектирования игровых механик и пользовательского опыта",
+    "image": "/images/crossplatform.png",
+    "meetingLink": "https://meet.google.com/game-design",
+    "telegramChat": "https://t.me/game_design_chat"
+  },
+  {
+    "id": "cross-platform",
+    "title": "Кросс-платформенная разработка",
+    "description": "Разработка приложений для различных платформ",
+    "image": "/images/crossplatform.png",
+    "meetingLink": "https://meet.google.com/cross-platform",
+    "telegramChat": "https://t.me/cross_platform_dev"
+  },
+  {
+    "id": "mwt",
+    "title": "Modern Web Technologies",
+    "description": "Изучение современных веб-технологий и фреймворков для создания масштабируемых приложений",
+    "image": "/images/mwt.png",
+    "meetingLink": "https://meet.google.com/mwt-course",
+    "telegramChat": "https://t.me/mwt_course_chat"
+  }
+]
